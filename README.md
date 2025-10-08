@@ -1,2 +1,2 @@
-# yuMinecraftLauncher2
-Visual Basic Based Homebrew Minecraft Launcher
+# Minecraft To Go
+Visual Basic Based Homebrew Portable Minecraft Launcher
